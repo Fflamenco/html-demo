@@ -1,0 +1,39 @@
+body {
+background-color:#888;
+}
+
+.nav {
+    text-align: center;
+}
+.nav ul li{
+    
+    font-size: 20px;
+    font-family: sans-serif;
+    display:inline-block;
+    margin:20px;
+    padding:10px;
+    border-width:medium;}
+
+.cards {
+    width: 684px;
+    margin: 0px auto;
+}
+
+.card {
+  width: 200px;
+  background: #fff;
+    padding: 7px;
+    float: left;
+    margin: 7px;
+}
+
+    .card img {
+        width: 100%;
+       }
+
+
+    .card .info {
+        padding: 20px;
+    }
+
+
